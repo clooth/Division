@@ -1,5 +1,5 @@
 import React from 'react-native';
-import { Colors, Fonts } from '../theme';
+import { Colors } from '../theme';
 
 const Styles = React.StyleSheet.create({
   applicationView: {
