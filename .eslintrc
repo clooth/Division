@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "plugins": ["react"],
+  "globals": {
+    "describe": true,
+    "it": true,
+    "expect": true,
+    "fetch": true,
+    "navigator": true,
+    "__DEV__": true,
+    "XMLHttpRequest": true,
+    "FormData": true
+  }
+}
