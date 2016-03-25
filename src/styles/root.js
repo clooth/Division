@@ -19,7 +19,7 @@ const Styles = React.StyleSheet.create({
     resizeMode: 'contain',
     tintColor: Colors.CapeCod,
     width: 128,
-  }
+  },
 });
 
 export default Styles;
