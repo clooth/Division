@@ -1,0 +1,4 @@
+--compilers js:test/compiler.js
+--require react-native-mock/mock
+--require test/init.js
+--reporter list
